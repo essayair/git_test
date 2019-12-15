@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fifth file
+=======
+fifth file from server
+>>>>>>> 28ffe7384fa6daa45e66a5a2e120e890faae9ab3
